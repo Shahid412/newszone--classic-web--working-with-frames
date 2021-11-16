@@ -1,0 +1,22 @@
+.Songs{
+	background-color:DarkSlateGray;
+	font-size:24px;
+	font-color:#AAAAAA;
+	
+}
+
+
+p{
+	font-size:20px;
+	font-color:#ffffff;
+}
+
+a:link{
+	font-size:24px;
+	color:lightpink;
+	text-decoration:none;
+}
+
+a:visited{
+	color:black;
+}

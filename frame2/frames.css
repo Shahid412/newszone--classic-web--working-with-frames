@@ -1,0 +1,33 @@
+
+
+
+a.l
+{
+	text-decoration:none;
+	font-size:18px;
+	color:white;
+}
+
+
+a.f
+{
+	text-decoration:none;
+	font-size:12px;
+	color:gold;
+}
+
+
+li
+{
+	list-style:none;
+}
+
+h1
+{
+	letter-spacing:0.3em;
+}
+
+h1,h2,h3
+{
+	color:white;
+}

@@ -1,0 +1,77 @@
+
+.f1
+{
+	word-spacing:2px;
+	color:white;
+	background-color:black;
+	text-shadow: -3px -4px 1px #671188;
+}
+
+
+.f2
+{
+	padding:2px;
+	text-shadow: -1px -4px 3px #777788;
+	font-size:22px;
+	color:black;
+	background-color:darkgray;
+}
+
+
+
+.f3
+{
+	background-color:maroon;	
+}
+
+
+.f4
+{
+	color:yellow;
+	background-color:indigo;	
+}
+
+
+.f5
+{
+		
+}
+
+
+.f6
+{
+	
+	background-color:indigo;	
+}
+
+
+a.l
+{
+	text-decoration:none;
+	font-size:18px;
+	color:white;
+}
+
+a.f
+{
+	text-decoration:none;
+	font-size:12px;
+	color:white;
+}
+
+
+li
+{
+	list-style:none;
+}
+
+h1
+{
+	letter-spacing:0.3em;
+}
+
+h1,h2,h3
+{
+	font-family: 
+	color:white;
+}

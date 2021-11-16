@@ -1,0 +1,51 @@
+.downloaddiv1
+{
+	float:left;
+	padding-left:20px; 
+	padding-right:90px; 
+}
+
+.downloaddiv2
+{
+	float:left;
+	padding-left:10px;
+	padding-right:20px; 
+}
+
+
+.downloaddiv3
+{
+	float:left;
+	padding-left:5px;
+}
+
+.mydiv
+{
+	padding:5px;
+	margin:5px;
+	float:left;
+}
+
+body
+{
+	background-color:gray;
+	color: #666666;
+}
+
+
+a{
+	font-size:18px;
+	text-decoration:none;
+	color:white;
+}
+
+p
+{
+	color: #666666;
+}
+
+li{
+	list-style:none;
+}
+
+

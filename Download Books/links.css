@@ -1,0 +1,185 @@
+a
+{
+	color:white;
+	text-decoration:none;
+}
+
+a.final
+{
+	font-size:30px;
+}
+
+a.h
+{
+	word-spacing:2px;
+	font-size:66px;
+	color:white;
+	text-decoration:none;
+}
+
+
+h1
+{
+	font-size=72px;
+	text-align:left;
+}
+
+.desc
+{
+	font-size:18px;
+	text-align:right;
+	font-weight:normal;
+	text-shadow: -3px -3px 2px #677898;
+	letter-spacing:2px;
+}
+
+.header
+{
+	padding-bottom:2px;
+	padding-top:2px;
+	padding-left:16px;
+	letter-spacing:4px;
+	color:white;
+	background-color:black;
+	text-shadow: -3px -4px 3px #677898;
+}
+
+.marq
+{
+	padding:2px;
+	text-shadow: -1px -4px 3px #777788;
+	font-size:18px;
+	font-weight:bold;
+	color:black;
+	background-color:darkgray;
+}
+
+.links
+{
+	padding:2px;
+	background-color:maroon;	
+}
+
+
+.para
+{
+	background-color:grey;
+	color:#AADEEE;
+	text-align:center;
+	height:420px;
+	width:180px;
+	float:left;
+	boorder: 1px solid pink;
+}
+
+body
+{
+	color:blue;
+	background-color:orange;
+}
+.mar
+{
+	color:yellow;
+}
+
+.m
+{
+	background-color:grey;
+	color:pink;
+	text-align:center;
+	height:420px;
+	width:180px;
+	line-height:20px;
+	float:left;
+	padding:5px;
+	border: 1px solid pink;
+}
+
+p
+{
+	color:indigo;
+}
+
+.frames
+{
+	background-color:orange;
+	font-color:indigo;
+	width:860px;
+	height:428px;
+	float:left;
+	border: 1px solid pink;
+}
+
+.rightlinks
+{
+	background-color:#556623;
+	color:#328892;
+	float:left;
+	width:272px;
+	height:430px;
+	border: 1px solid pink;
+	text-align:justify;
+}
+
+
+.copyright
+{
+	font-size:12px;
+	background-color:black;
+	color:white;
+	text-align:center;
+	padding:4px;
+	clear:both;
+	border: 1px solid pink;
+}
+
+ul
+{
+	list-style:none;
+}
+
+a.f
+{
+	font-size:12px;
+}
+
+.mydiv
+{
+	padding:5px;
+	margin:5px;
+	float:left;
+}
+.mydiv
+{
+	padding:5px;
+	text-align:center;
+	text-decoration:none;
+	float:left;
+	font-size:24px;
+	margin:5px;
+	color:white;
+}
+
+.downloaddiv1
+{
+	list-style:none;
+	float:left;
+	padding-left:40px; 
+	padding-right:90px; 
+}
+
+.downloaddiv2
+{
+	list-style:none;
+	float:left;
+	padding-left:30px;
+	padding-right:20px; 
+}
+
+
+.downloaddiv3
+{
+	list-style:none;
+	float:left;
+	padding-left:5px;
+}
